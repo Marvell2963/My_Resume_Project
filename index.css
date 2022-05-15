@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+
+h1{
+    text-transform: capitalize;
+}
+
+h2{
+    text-transform: capitalize;
+}
+h3{
+    text-transform: capitalize;
+}
+
+#container{
+    margin: 3% 2%;
+}
+
+.intro{
+    display: flex;
+    
+    margin: 3% 2%;
+}
+
+.passion{
+    margin: 3% 2%;
+}
+
+.projects{
+    margin: 3% 2%;
+}
+
+.specialties{
+    margin: 3% 2%;
+}
+
+.education{
+    margin: 3% 2%;
+}
